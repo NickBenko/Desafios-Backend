@@ -1,0 +1,15 @@
+{
+  "name": "desafio3_servidorexpress",
+  "version": "1.0.0",
+  "description": "Servidor express para mostrar productos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "vn7",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
